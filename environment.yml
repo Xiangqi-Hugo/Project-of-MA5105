@@ -1,0 +1,21 @@
+name: t2d_beta_analysis
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - scipy
+  - anndata
+  - h5py
+  - r-base
+  - r-essentials
+  - bioconductor-edger
+  - bioconductor-limma
+  - bioconductor-clusterprofiler
+  - bioconductor-org.hs.eg.db
+  - pip
+  - pip:
+      - xgboost

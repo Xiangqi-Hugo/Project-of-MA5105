@@ -1,0 +1,11 @@
+"metric","value"
+"n_libraries_in_our_summary",54
+"n_libraries_in_cellxgene_metadata",66
+"n_matched_libraries",42
+"total_our_beta_cells_matched",78073
+"total_cellxgene_beta_cells_matched",80084
+"total_difference_cellxgene_minus_ours",2011
+"percent_difference_vs_cellxgene",2.51111333100245
+"median_absolute_difference_per_library",209
+"max_absolute_difference_per_library",2167
+"correlation_our_vs_cellxgene",0.90382714257972

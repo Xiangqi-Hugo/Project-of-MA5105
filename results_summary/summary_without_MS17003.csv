@@ -1,0 +1,7 @@
+"metric","value"
+"n_matched_libraries_without_MS17003",41
+"total_our_beta_cells",78023
+"total_cellxgene_beta_cells",77867
+"difference_cellxgene_minus_ours",-156
+"percent_difference_vs_cellxgene",-0.200341608126678
+"correlation",0.953510501890614

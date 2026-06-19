@@ -1,0 +1,4 @@
+"threshold","n_samples_total","n_ND","n_PD","n_T2D","min_beta_cells","median_beta_cells","max_beta_cells"
+50,42,17,11,14,50,1822.5,4542
+100,41,17,11,13,140,1943,4542
+200,40,17,11,12,272,1962.5,4542
